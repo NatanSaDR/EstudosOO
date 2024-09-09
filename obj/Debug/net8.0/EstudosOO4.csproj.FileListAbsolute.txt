@@ -1,0 +1,14 @@
+C:\Users\natan\source\repos\EstudosOO4\bin\Debug\net8.0\EstudosOO4.exe
+C:\Users\natan\source\repos\EstudosOO4\bin\Debug\net8.0\EstudosOO4.deps.json
+C:\Users\natan\source\repos\EstudosOO4\bin\Debug\net8.0\EstudosOO4.runtimeconfig.json
+C:\Users\natan\source\repos\EstudosOO4\bin\Debug\net8.0\EstudosOO4.dll
+C:\Users\natan\source\repos\EstudosOO4\bin\Debug\net8.0\EstudosOO4.pdb
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.AssemblyInfoInputs.cache
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.AssemblyInfo.cs
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.dll
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\refint\EstudosOO4.dll
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.pdb
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\EstudosOO4.genruntimeconfig.cache
+C:\Users\natan\source\repos\EstudosOO4\obj\Debug\net8.0\ref\EstudosOO4.dll
